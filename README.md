@@ -1,11 +1,12 @@
 # python
 All of my works in python
 
-Python File I/O Projects
-Description
-This repository contains beginner-friendly Python projects demonstrating file I/O capabilities. These projects are designed to showcase practical applications of reading, writing, and managing files in Python.
+## Python File I/O Projects
+### Description
+This repository contains beginner-friendly Python projects demonstrating file I/O capabilities.
+These projects are designed to showcase practical applications of reading, writing, and managing files in Python.
 
-Projects
+### Projects
   1. Word Counter
     - A script that reads a text file and provides insights such as:
       - Total word count.
@@ -14,7 +15,7 @@ Projects
     Additional Features:
       - Counts occurrences of a specific word.
       - Ignores case sensitivity for more accurate results.
-  2. Text Logger
+  3. Text Logger
     - A logging utility for saving messages with timestamps and log levels (INFO, WARNING, ERROR).
     Features:
       - Automatic log rotation when the file exceeds a configurable size.
