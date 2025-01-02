@@ -1,6 +1,9 @@
-# python
+# Python
 All of my works in python
 
+## Data Structures and Algorithms
+### Description
+This section consists of all the important concepts of data structures and algorithms
 ## Python File I/O Projects
 ### Description
 This repository contains beginner-friendly Python projects demonstrating file I/O capabilities.
