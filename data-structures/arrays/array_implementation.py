@@ -2,6 +2,10 @@
 arr = [1, 2, 3, 4, 5]
 print(f"array list (arr): {arr}")
 
+# Reversing the array
+reversed_arr = arr.reverse() # or arr = arr[::-1]
+print(f"reversed array list (reversed_arr): {reversed_arr}")
+
 # Accessing the first element
 print(f"first element of arr: {arr[0]}")
 
@@ -40,6 +44,9 @@ for i in arr:
 
 # Finding the length of an array
 print(f"length of arr: {len(arr)}")
+
+# Finding the maximum element
+print(f"maximum element in arr: {max(arr)}")
 
 # Finding the index of an element
 print(f"finding the index of an element 3: {arr.index(3)} is the position of 3 in arr")
