@@ -1,6 +1,9 @@
 ## Description
 Arrays are contiguous memory structures that store elements (usually of the same type)
 This folder consists of several simple operations that can be done with an array
+
+This section consists of information about arrays and the operations on them
+
 ## Key Characteristics of Arrays
 - Index-based: Elements are accesed via indices (starting from 0)
 - Contigious memory: Elements are stored back-to-back in memory
