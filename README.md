@@ -1,2 +1,1 @@
-All of my works in python
-
+Collection of Python exercises, small utilities, OOP practice, and testing practice.
